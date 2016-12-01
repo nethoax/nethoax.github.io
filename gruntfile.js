@@ -177,7 +177,7 @@ module.exports = function (grunt) {
             pages: {
                 options: {
                     remote: 'git@github.com:nethoax/nethoax.github.io.git', // change that
-                    branch: 'master' // adjust here
+                    branch: 'gh-pages' // adjust here
                 }
             }
         },
