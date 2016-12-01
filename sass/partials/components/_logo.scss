@@ -16,21 +16,22 @@
 }
 
 .gridster{
-    font-size:104.73602295px;
+    //font-size:104.73602295px;
+    font-size: 90px;
     font-weight: bold;
     line-height:125%;
     fill:$primary-text;
-    font-family: $main-font;
+    font-family: 'Fredoka One';
     text-transform: uppercase;
     transition: .3s all ease;
 }
 
 .slogan{
     font-size:20px;
-    font-weight:300;
+    //font-weight:100;
     line-height:125%;
     fill:$accent-color;
-    font-family: $main-font;
+    font-family: 'Raleway';
     transition: .3s all ease;
 }
 
