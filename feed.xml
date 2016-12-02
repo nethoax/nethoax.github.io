@@ -3,8 +3,68 @@
 	<channel>
 		<title>nethoax</title>
 		<description>Exposing hoaxes perpetuated by mass media and other institutions. Topics include the knock-out game, black victimization, the truth about Islam, and more.</description>
-		<link>http://nethoax.net</link>
-		<atom:link href="http://nethoax.net/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Colin Flaherty - Howard Stern talks his long history with Black on White Violence</title>
+				
+				
+					<description>&lt;p&gt;Colin Flaherty - Howard Stern talks his long history with Black on White Violence&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 01 Dec 2016 00:00:00 -0700</pubDate>
+				<link>http://localhost:4000/howard-stern-talks-his-long-history-with-black-on-white-violence/</link>
+				<guid isPermaLink="true">http://localhost:4000/howard-stern-talks-his-long-history-with-black-on-white-violence/</guid>
+			</item>
+		
+			<item>
+				<title>Colin Flaherty - How So Many Black Women Are Raped And Why We Should Ignore It</title>
+				
+				
+					<description>&lt;p&gt;Colin Flaherty - How So Many Black Women Are Raped And Why We Should Ignore It&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 01 Dec 2016 00:00:00 -0700</pubDate>
+				<link>http://localhost:4000/how-so-many-black-women-are-raped-and-why-we-should-ignore-it/</link>
+				<guid isPermaLink="true">http://localhost:4000/how-so-many-black-women-are-raped-and-why-we-should-ignore-it/</guid>
+			</item>
+		
+			<item>
+				<title>Colin Flaherty - Black carjacker messes with wrong Grandmother</title>
+				
+				
+					<description>&lt;p&gt;Colin Flaherty - Black carjacker messes with wrong Grandmother&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 01 Dec 2016 00:00:00 -0700</pubDate>
+				<link>http://localhost:4000/black-carjacker-messes-with-wrong-grandmother/</link>
+				<guid isPermaLink="true">http://localhost:4000/black-carjacker-messes-with-wrong-grandmother/</guid>
+			</item>
+		
+			<item>
+				<title>Colin Flaherty - Angelina Jolie Starts Black Riot in Owensboro</title>
+				
+				
+					<description>&lt;p&gt;Colin Flaherty - Angelina Jolie Starts Black Riot in Owensboro&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 01 Dec 2016 00:00:00 -0700</pubDate>
+				<link>http://localhost:4000/angelina-jolie-starts-black-riot-in-owensboro/</link>
+				<guid isPermaLink="true">http://localhost:4000/angelina-jolie-starts-black-riot-in-owensboro/</guid>
+			</item>
+		
+			<item>
+				<title>Colin Flaherty - Anderson Cooper - White guilt, Black crime -</title>
+				
+				
+					<description>&lt;p&gt;Colin Flaherty - Anderson Cooper - White guilt, Black crime - #BoycottCNN Fake News&lt;/p&gt;
+</description>
+				
+				<pubDate>Thu, 01 Dec 2016 00:00:00 -0700</pubDate>
+				<link>http://localhost:4000/anderson-cooper-white-guilt-black-crime-boycottcnn-fake-news/</link>
+				<guid isPermaLink="true">http://localhost:4000/anderson-cooper-white-guilt-black-crime-boycottcnn-fake-news/</guid>
+			</item>
 		
 			<item>
 				<title>Colin Flaherty - White Supremacists Shoot Black Lives Matter Protestors. What a joke.</title>
@@ -14,8 +74,8 @@
 </description>
 				
 				<pubDate>Tue, 29 Nov 2016 00:00:00 -0700</pubDate>
-				<link>http://nethoax.net/white-supremacists-shoots/</link>
-				<guid isPermaLink="true">http://nethoax.net/white-supremacists-shoots/</guid>
+				<link>http://localhost:4000/white-supremacists-shoots/</link>
+				<guid isPermaLink="true">http://localhost:4000/white-supremacists-shoots/</guid>
 			</item>
 		
 			<item>
@@ -26,8 +86,8 @@
 </description>
 				
 				<pubDate>Tue, 29 Nov 2016 00:00:00 -0700</pubDate>
-				<link>http://nethoax.net/w-kamau-bell-npr/</link>
-				<guid isPermaLink="true">http://nethoax.net/w-kamau-bell-npr/</guid>
+				<link>http://localhost:4000/w-kamau-bell-npr/</link>
+				<guid isPermaLink="true">http://localhost:4000/w-kamau-bell-npr/</guid>
 			</item>
 		
 			<item>
@@ -39,8 +99,8 @@ Find out more about your own definition of self in the latest Mike Cernovich pod
 </description>
 				
 				<pubDate>Tue, 29 Nov 2016 00:00:00 -0700</pubDate>
-				<link>http://nethoax.net/mindset-is-identity/</link>
-				<guid isPermaLink="true">http://nethoax.net/mindset-is-identity/</guid>
+				<link>http://localhost:4000/mindset-is-identity/</link>
+				<guid isPermaLink="true">http://localhost:4000/mindset-is-identity/</guid>
 			</item>
 		
 			<item>
@@ -51,8 +111,8 @@ Find out more about your own definition of self in the latest Mike Cernovich pod
 </description>
 				
 				<pubDate>Tue, 29 Nov 2016 00:00:00 -0700</pubDate>
-				<link>http://nethoax.net/another-white-kid/</link>
-				<guid isPermaLink="true">http://nethoax.net/another-white-kid/</guid>
+				<link>http://localhost:4000/another-white-kid/</link>
+				<guid isPermaLink="true">http://localhost:4000/another-white-kid/</guid>
 			</item>
 		
 	</channel>
