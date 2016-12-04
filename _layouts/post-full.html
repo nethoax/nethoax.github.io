@@ -53,6 +53,10 @@
                         <div class="post-content">
                             {{ content }}
                         </div>
+        		{% include share.html %}
+			{% if page.comments %} 
+        	       	  {% include disqus.html %}
+			{% endif %}
                         {% if page.category or page.tags %}
                         <div class="catsandtags">
                             {% if page.category %}
@@ -87,6 +91,6 @@
             </div>
         </div>
         {% include footer.html %}
-        
+<script id="dsq-count-scr" src="//nethoax.disqus.com/count.js" async></script>        
     </body>
 </html>

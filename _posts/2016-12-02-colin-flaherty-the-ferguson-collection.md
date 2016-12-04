@@ -5,6 +5,7 @@ type: youtube
 yt-video-id: k_f5HpRpgmQ
 homedisplay: iframe
 title: Colin Flaherty - The Ferguson Collection
+comments: true
 tags: [video, colin flaherty]
 category: [video]
 ---
