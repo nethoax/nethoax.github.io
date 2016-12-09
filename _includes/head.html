@@ -26,6 +26,9 @@
   <meta content="{{ site.url }}/about/" property="article:author">
 {% endif %}
 {% if page.yt-video-id %}
+  <link rel=“preconnect” href=“//i.ytimg.com">
+  <link rel=“preconnect” href=“//s.ytimg.com">
+  <link rel=“preconnect” href="//www.youtube.com">
   <meta content="http://img.youtube.com/vi/{{ page.yt-video-id }}/hqdefault.jpg" property="og:image">
 {% else %}
   <meta content="/img/profile-pic.png" property="og:image">
@@ -40,6 +43,6 @@
   <meta content="{{ tag }}" property="article:tag">
   {% endfor %}
 {% endif %}
-<link rel="stylesheet" href="{{ site.baseurl | replace: '//', '/' }}/css/main.css">
-<link rel="stylesheet" id="switch-style" href="{{ site.baseurl | replace: '//', '/' }}/css/grid.css">
-<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.baseurl | prepend: site.url | replace: '//', '/' }}/feed.xml">
+<link rel="stylesheet" href="{{ site.url }}/css/main.css">
+<link rel="stylesheet" id="switch-style" href="{{ site.url }}/css/grid.css">
+<link rel="alternate" type="application/rss+xml" title="{{ site.name }}" href="{{ site.url }}/feed.xml">
