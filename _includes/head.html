@@ -1,11 +1,19 @@
 <meta charset="UTF-8">
 <title>{{ site.name }}{% if page.title %} - {{ page.title }} {% endif%}</title>
-{% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+{% if page.description %}
+<meta name="description" content="{{ page.description }}">
+<meta name="twitter:description" content="{{ page.description }}">
+{% else %}
+<meta name="description" content="{{ site.description }}">
+<meta name="twitter:description" content="{{ site.description }}">
+{% endif %}
 <meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'/>
 <meta content="{{ site.name }}" property="og:site_name">
 {% if page.title %}
+  <meta name="twitter:title" content="{{ page.title }}">
   <meta content="{{ page.title }}" property="og:title">
 {% else %}
+  <meta name="twitter:title" content="{{ site.title }}">
   <meta content="{{ site.title }}" property="og:title">
 {% endif %}
 {% if page.title %}
@@ -20,17 +28,18 @@
 {% endif %}
 {% if page.url %}
   <meta content="{{ site.url }}{{ page.url }}" property="og:url">
-  <meta content="220628011695378" property="fb:app_id">
 {% endif %}
 {% if page.date %}
   <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
   <meta content="{{ site.url }}/about/" property="article:author">
 {% endif %}
 {% if page.yt-video-id %}
-  <link rel=“preconnect” href=“//i.ytimg.com">
-  <link rel=“preconnect” href=“//s.ytimg.com">
-  <link rel=“preconnect” href="//www.youtube.com">
+  <link rel="preconnect" href="//i.ytimg.com">
+  <link rel="preconnect" href="//s.ytimg.com">
+  <link rel="preconnect" href="//www.youtube.com">
+  <meta name="twitter:card" content="summary_large_image">
   <meta content="http://img.youtube.com/vi/{{ page.yt-video-id }}/hqdefault.jpg" property="og:image">
+  <meta name="twitter:image" content="http://img.youtube.com/vi/{{ page.yt-video-id }}/hqdefault.jpg">
   <meta content="480" property="og:image:width">
   <meta content="360" property="og:image:height">
 {% else %}

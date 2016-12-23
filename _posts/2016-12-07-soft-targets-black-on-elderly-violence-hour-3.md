@@ -11,7 +11,7 @@ category: [video]
 ---
 A compilation of Colin Flaherty YouTube videos around black predators, elderly victims, and the myth of black victimization.
 
-Part 3 of 5. In this edition:
+Part 3 of 3. In this edition:
 
 1. The untold story behind Alton Sterling and the cop shooting in Baton Rouge.
 2. Black mob stalks and beats old white dude in D C. He lived

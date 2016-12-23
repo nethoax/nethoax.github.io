@@ -13,15 +13,15 @@ A compilation of Colin Flaherty YouTube videos around black predators, elderly v
 
 ### Hour 1
 
-1. Colin Flaherty - Black mob stomps older white woman over a bag of french fries in Macon
-2. Colin Flaherty - Black Mob Attacks Old Dude on Bike and White Kid on Long Island - Business as usual
-3. Colin Flaherty - More Black on Old People - Murder, Robbery and Assault - from Chicago to Rockville and New York
-4. Colin Flaherty - Black people rob and beat old woman in Catholic Cathedral in Omaha
-5. Colin Flaherty - Black on Old White Dude Murder in Florida
-6. Colin Flaherty - Old White Woman Victim of Knockout Game in Daytona Beach
-7. Colin Flaherty - Black People Choke Out Old Woman in Chicago - AGAIN
-8. Colin Flaherty - Black Person Beats Old White Dude to Death in San Francisco
-9. Colin Flaherty - Black Mob Targets Old People in Florida - and other spots
+1. Black mob stomps older white woman over a bag of french fries in Macon
+2. Black Mob Attacks Old Dude on Bike and White Kid on Long Island - Business as usual
+3. More Black on Old People - Murder, Robbery and Assault - from Chicago to Rockville and New York
+4. Black people rob and beat old woman in Catholic Cathedral in Omaha
+5. Black on Old White Dude Murder in Florida
+6. Old White Woman Victim of Knockout Game in Daytona Beach
+7. Black People Choke Out Old Woman in Chicago - AGAIN
+8. Black Person Beats Old White Dude to Death in San Francisco
+9. Black Mob Targets Old People in Florida - and other spots
 
 
 
