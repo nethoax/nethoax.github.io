@@ -2,7 +2,7 @@
 author: nethoax
 layout: post-full
 type: youtube
-yt-video-id: PZBvvEN3IU0 
+yt-video-id: _zyU77Rrr-c
 homedisplay: iframe
 title: Colin Flaherty Compilation - Black on Cop Violence [Part 4 of 10]
 comments: true
@@ -10,11 +10,9 @@ tags: [video, colin flaherty]
 category: [video]
 ---
 
-Someone you know needs Don't Make the Black Kids Angry: [http://amzn.to/2h46e1H](http://amzn.to/2h46e1H)
-
 A compilation of Colin Flaherty YouTube videos documenting the black war on police officers. 
 
-Hour 4. In this edition:
+In this edition:
 
 1. Black person shoots a cop. Open season on cops
 2. Cops Shoot a Black Man For No Reason What So Ever - His Mom Dont Like

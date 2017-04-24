@@ -2,14 +2,14 @@
 author: nethoax
 layout: post-full
 type: youtube
-yt-video-id: wfsRwXDFtoI 
+yt-video-id: wfsRwXDFtoI
 homedisplay: iframe
 title: SOFT TARGETS - Black on Asian Violence Part 5
 comments: true
 tags: [video, colin flaherty]
 category: [video]
 ---
-A compilation of Colin Flaherty YouTube videos around black predators, Asian victims, and the myth of black victimization. 
+A compilation of Colin Flaherty YouTube videos around black predators, Asian victims, and the myth of black victimization.
 
 Part 5 of 5. In this edition:
 
